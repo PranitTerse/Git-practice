@@ -1,4 +1,4 @@
-from sympy import *
+# from sympy import *
 import numpy as np
 
 def printsupress(nparray):
